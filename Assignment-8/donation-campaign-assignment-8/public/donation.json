@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/nmpdDHL/water-1.jpg",
+      "title": "Child-Friendly Clean Water Solutions",
+      "category": "Health",
+      "category_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_button_bg": "#0052ff",
+      "description": "Child-Friendly Clean Water Solutions refer to initiatives and strategies designed specifically to ensure that children have access to safe, potable water. These solutions focus on implementing practices and technologies that are not only effective in purifying water but also tailored to the unique needs and vulnerabilities of young individuals. This can involve the installation of child-friendly water facilities, such as low-height taps and filtration systems that are easy for children to use. Additionally, education programs may be implemented to teach children about the importance of clean water and proper hygiene practices. These solutions aim to safeguard the health and well-being of children, recognizing their particular susceptibility to waterborne diseases and the critical role that clean water plays in their growth, development, and overall quality of life.",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/yX5YL53/food-2.png",
+      "title": "Nourishing Meals for Every Child",
+      "category": "Food",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Nourishing Meals for Every Child: is a vital initiative focused on providing children with consistent access to balanced and nutritious food. This program aims to address childhood hunger and malnutrition by implementing various strategies, including school meal programs, community gardens, and nutritional education for parents and caregivers. It emphasizes the importance of healthy eating habits from an early age, recognizing that proper nutrition is essential for a child's physical and cognitive development. By ensuring that every child has access to nourishing meals, this initiative strives to give them the best possible foundation for a healthy, thriving future.",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/cLJ7ygS/cloth-3.jpg",
+      "title": "Share the Warmth for Needy",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Share the Warmth for Needy: is a heartfelt campaign dedicated to providing warmth and comfort to individuals and families facing challenging circumstances. This initiative focuses on collecting and distributing winter clothing items such as coats, blankets, gloves, and scarves to those in need. Through community support and donations, this effort aims to ensure that no one goes without the essential protection from the cold. By rallying together, communities can make a significant impact on the well-being and comfort of those experiencing hardship, spreading kindness and compassion throughout the winter months.",
+      "price": 54.99
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/ZW0Rd6K/edu-3.jpg",
+      "title": "Accessible and Excellent Education",
+      "category": "Education",
+      "category_bg": "#f39c1233",
+      "card_bg": "#f39c1226",
+      "text_button_bg": "#f39c12",
+      "description": "Accessible and Excellent Education: is a dedicated effort to make high-quality learning experiences available to all individuals, regardless of their background or circumstances. This initiative prioritizes removing barriers to education, such as financial constraints or physical limitations, ensuring that everyone has the opportunity to access and benefit from outstanding educational resources. It places emphasis on providing comprehensive and engaging curricula, qualified educators, and modern learning environments. By combining accessibility and excellence, this initiative aims to empower learners to reach their full potential, contribute meaningfully to society, and forge a path towards a brighter future for themselves and their communities.",
+      "price": 69.99
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/mbXpD32/food-3.jpg",
+      "title": "Quality Food for Healthy Living",
+      "category": "Food",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Quality Food for Healthy Living: is a concerted effort to promote the availability and accessibility of nutritious, wholesome food options for individuals and communities. This initiative places emphasis on sourcing, producing, and distributing food that is rich in essential nutrients and free from harmful additives. It encourages sustainable agricultural practices and supports local food systems to ensure the highest standards of quality. By prioritizing quality food, this campaign aims to empower individuals to make healthier dietary choices, leading to improved overall well-being, enhanced energy levels, and a reduced risk of chronic health issues. Ultimately, the goal is to foster a culture of healthy living through the foundation of high-quality, nourishing food options.",
+      "price": 34.99
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/L1JB5cV/edu-1.png",
+      "title": "Empowering Minds with Education",
+      "category": "Education",
+      "category_bg": "#f39c1233",
+      "card_bg": "#f39c1226",
+      "text_button_bg": "#f39c12",
+      "description": "Empowering Minds with Education: is a transformative initiative focused on providing individuals with the knowledge, skills, and tools they need to unlock their full potential. This program aims to create inclusive and accessible learning environments, offering diverse educational opportunities for people of all ages and backgrounds. It emphasizes the importance of critical thinking, creativity, and lifelong learning, enabling individuals to adapt to a rapidly evolving world. By empowering minds through education, this initiative seeks to foster personal growth, expand opportunities, and drive positive social and economic change within communities and societies at large.",
+      "price": 44.99
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/VLwXGDZ/water-2.jpg",
+      "title": "Ensuring Pure Water for Kids",
+      "category": "Health",
+      "category_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_button_bg": "#0052ff",
+      "description": "Ensuring Pure Water for Kids involves a concerted effort to provide young individuals with access to safe, uncontaminated drinking water. This initiative prioritizes the implementation of reliable water purification methods and the maintenance of infrastructure to guarantee that children have a sustainable supply of clean water. It also encompasses education programs that teach children about the importance of water quality and proper hygiene practices. By focusing on the specific needs of children, this endeavor aims to safeguard their health, support their growth and development, and create a foundation for a healthy and prosperous future.",
+      "price": 49.99
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/TTrM1xC/cloth-1.jpg",
+      "title": "Clothing Drive for Needy",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "The Clothing Drive for Needy: is a compassionate initiative aimed at collecting and distributing clothing items to individuals and families facing economic hardship. This campaign encourages community members to donate gently used or new clothes to help those in need. The collected clothing is then sorted, cleaned, and organized for distribution. By organizing such drives, communities come together to provide essential clothing items, helping to alleviate the burdens of those experiencing financial difficulties. This initiative not only meets a basic necessity but also fosters a sense of solidarity and support within the community, making a positive impact on the lives of those who receive assistance.",
+      "price": 39.99
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/n89FZPg/edu-2.jpg",
+      "title": "Quality Education for All",
+      "category": "Education",
+      "category_bg": "#f39c1233",
+      "card_bg": "#f39c1226",
+      "text_button_bg": "#f39c12",
+      "description": "Quality Education for All: is a commitment to providing inclusive, accessible, and high-caliber learning experiences for every individual, regardless of their socio-economic background, geographic location, or personal circumstances. This initiative seeks to ensure that educational opportunities are not limited by barriers such as financial constraints or inadequate resources. It focuses on equipping learners with the knowledge, skills, and critical thinking abilities necessary to thrive in a dynamic and interconnected world. By prioritizing quality education, this endeavor aims to foster equal opportunities, empower individuals, and promote long-lasting positive change in communities and societies worldwide.",
+      "price": 24.99
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/j3GchJx/food-1.jpg",
+      "title": "Nourishing Meals for All",
+      "category": "Food",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Nourishing Meals for All: is a campaign dedicated to ensuring that every individual has access to wholesome and balanced food. This initiative aims to eradicate food insecurity by implementing strategies such as community gardens, food banks, and educational programs about nutrition and sustainable eating habits. It focuses on providing not just sustenance, but also promoting the health and well-being of communities. By prioritizing nutritious options and inclusive approaches, this campaign seeks to create a society where everyone has the opportunity to thrive through access to nourishing meals.",
+      "price": 19.99
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/wMVRndr/cloth-2.png",
+      "title": "Secondhand Clothing Collection Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "The Secondhand Clothing Collection Drive: is an organized effort to gather gently used clothing items from the community for redistribution to those in need. This initiative encourages individuals to donate clothing they no longer need, extending the lifespan of these garments and reducing waste. The collected items are carefully sorted, cleaned, and prepared for distribution. By hosting such drives, communities promote sustainability and extend a helping hand to individuals and families facing financial constraints. This initiative not only provides practical assistance but also contributes to a more environmentally conscious and compassionate society.",
+      "price": 79.99
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/gRXydWb/water-3.jpg",
+      "title": "Kids Deserve Clean Drinking Water",
+      "category": "Health",
+      "category_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_button_bg": "#0052ff",
+      "description": "Kids Deserve Clean Drinking Water: emphasizes the fundamental right of children to have access to safe and uncontaminated drinking water. This initiative prioritizes the establishment and maintenance of reliable water sources, along with the implementation of effective purification methods. It also involves educational programs aimed at raising awareness among children about the significance of water quality and proper hygiene practices. By tailoring efforts specifically to the needs of children, this campaign seeks to safeguard their health, support their overall well-being, and lay the foundation for a brighter, healthier future for the next generation.",
+      "price": 39.99
+    }
+]
+  
